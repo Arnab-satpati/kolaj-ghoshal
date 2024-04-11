@@ -235,6 +235,10 @@ nav ul li a:hover::after{
     text-align: center;
     line-height: 60px;
 }
+.text{
+    width: 80%;
+    height: auto;
+}
 .work:hover img{
     transform: scale(1.1);
 }
